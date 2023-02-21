@@ -1,0 +1,13 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ÖÃ€8·ÂÛÿÇ0
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(©òîë8æÂÛÿÇ0
+b
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(ÆÄÜüÿÿÿÿ8ôÂÛÿÇ0
+b
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(¦¸«Áûÿÿÿÿ8ıÂÛÿÇ0
+p
+java:S1128"NRemove this unused import 'com.example.springbackend.service.EmployeeService'.(¤ñ³®ûÿÿÿÿ8„ÃÛÿÇ0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8…ÃÛÿÇ0
